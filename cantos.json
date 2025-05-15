@@ -1,0 +1,31 @@
+[
+  { 
+    "titulo": "Alabaré Alabaré",
+    "parrafos": [
+      {
+        "subtitle": "I",
+        "contenido": "Alabaré al señor"
+      }, {
+        "subtitle": "CORO",
+        "contenido": "Alabare Alabare"
+      }, {
+        "subtitle": "II",
+        "contenido": "Alabaré al señor otro parrafo"
+      }
+    ]
+  }, { 
+    "titulo": "Cantare",
+    "parrafos": [
+      {
+        "subtitle": "I",
+        "contenido": "Cantare al señor"
+      }, {
+        "subtitle": "CORO",
+        "contenido": "Cantare Cantare"
+      }, {
+        "subtitle": "II",
+        "contenido": "Cantare al señor otro parrafo"
+      }
+    ]
+  }
+]
