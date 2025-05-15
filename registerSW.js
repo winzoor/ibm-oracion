@@ -1,0 +1,1 @@
+if('serviceWorker' in navigator) {window.addEventListener('load', () => {navigator.serviceWorker.register('/ibm-oracion/sw.js', { scope: '/ibm-oracion/' })})}
